@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marius</title>
+    
+    
+    
+    <link>https://alejup.github.io/</link>
+    <description>Recent content on Marius</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Oct 2023 21:39:30 +0300</lastBuildDate>
+    
+	<atom:link href="https://alejup.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mariaus blogas</title>
+      <link>https://alejup.github.io/posts/marius/</link>
+      <pubDate>Mon, 23 Oct 2023 21:39:30 +0300</pubDate>
+      
+      <guid>https://alejup.github.io/posts/marius/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Labas, as Marius!
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
